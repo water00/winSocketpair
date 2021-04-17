@@ -1,7 +1,7 @@
 # winSocketpair
 C++ socketpair implementation for windows
 
-# Install
+# Installation
 1. Download the project ( c:\winSocketpair )
 2. Create a build directory ( c:\winSocketpair\build )
 3. Go to build directory and do cmake ( cmake .. )
